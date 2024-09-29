@@ -1,8 +1,6 @@
 # DFIR-Triaging
 Contains 4 powershells to assist in identifying initial attack vector
 
-Here is a description suitable for a GitHub repository based on the three PowerShell scripts provided:
-
 
 ---
 
