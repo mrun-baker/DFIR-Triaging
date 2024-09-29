@@ -70,6 +70,17 @@ Tracks recent command prompt activity.
 
 Useful for detecting script-based attacks or malware leveraging PowerShell.
 
+4.Recent File Executions and Prefetch Analysis Script
+
+File: RecentExecutions.ps1
+
+Purpose: Tracks recently executed files and examines Prefetch data for evidence of malware or suspicious file executions. Results are saved to a text file on the desktop.
+
+Features:
+
+Lists recently accessed files in common attack locations like %TEMP%.
+
+Extracts Prefetch data to check for recently executed programs.
 
 Prerequisites:
 
